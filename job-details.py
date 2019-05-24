@@ -185,9 +185,9 @@ def notification():
         mailbody += "<h4>"+title +"</h4>" +"\n"
   
     
-    sender_email = "jhonwilliams.108@gmail.com"
-    receiver_email = "bijjamkarthikreddy@gmail.com"
-    password = "jhon@williams@95"
+    sender_email = "Sender Eamil Id"
+    receiver_email = "Receiver Email Id"
+    password = "Sender Email Password"
     #password = input("Type your password and press enter:")
     
     message = MIMEMultipart("alternative")

@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 16 15:38:05 2019
 
-@author: s533488
+
 """
 
 from bs4 import BeautifulSoup
